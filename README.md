@@ -1,0 +1,1 @@
+This is like a search engine prototype built with a javascript(typeahead)
